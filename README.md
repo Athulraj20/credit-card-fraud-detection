@@ -8,6 +8,8 @@ This project uses machine learning to detect fraudulent credit card transactions
 - Compares Logistic Regression, Decision Tree, and Random Forest for binary fraud detection.
 - Tests whether SMOTENC improves Logistic Regression on imbalanced data.
 - Uses a separate Random Forest to classify transactions as legitimate or one of five fraud types.
+- <img width="1200" height="1370" alt="fraud_detection" src="https://github.com/user-attachments/assets/e7f6ec3f-ef60-4fbb-8c46-4f61dcadf19b" />
+
 
 ## Results
 
